@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | AC-0001 | StoreGuards and ProjectStore Architecture Review | ChatGPT | 2025-12-10 to 2026-03-24 | Mined — Awaiting Human Review | `ChatGPT/AC-0001_StoreGuards_and_ProjectStore_Architecture/MINING_REPORT.md` | Awaiting verbatim `SOURCE.md` commit | PDR/ADR candidates awaiting review |
 | AC-0002 | NOD XRecord Manager Concept | ChatGPT | 2025-05-27 | Mined — Awaiting Human Review | `ChatGPT/AC-0002_NOD_XRecord_Manager_Concept/MINING_REPORT.md` | Complete — `SOURCE.md` preserved | PDR/diagnostic architecture candidates awaiting review |
+| AC-0003 | AutoCAD Ribbon C# Example | ChatGPT | 2025-09-23 to 2025-11-03 | Mined — Awaiting Human Review | `ChatGPT/AC-0003_AutoCAD_Ribbon_CSharp_Example/MINING_REPORT.md` | Complete — original root export preserved | PDR/UI architecture and ADR candidates awaiting review |
 
 ## Queue Rules
 
